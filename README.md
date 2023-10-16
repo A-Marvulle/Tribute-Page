@@ -1,3 +1,3 @@
 # Tribute-Page
 
-<a href="https://a-marvulle.github.io/Trubute-Page/">Pages</a>
+<a href="https://a-marvulle.github.io/Tribute-Page/">Pages</a>
